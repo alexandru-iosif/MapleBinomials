@@ -9,6 +9,7 @@ with(Groebner):
 #####
 Binomials := module()
 description "Some functions for Binomial Ideals";
+#Authors: Alexandru Iosif and Hamid Rahkooy
 option package;
 #with(ListTools):
 #with(Groebner):
